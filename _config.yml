@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+highlighter-theme: monokai //you can change your syntax color scheme. 
+date_format: "%Y-%M-%D" //and date format.
