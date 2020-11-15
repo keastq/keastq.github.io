@@ -7,7 +7,7 @@ paginate: 5
 permalink: pretty
 cover_image: /amy-hirschi-unsplash.jpg
 cover_bg_color: rgb(245, 245, 220)
-cover_color: rgb(0, 0, 0)
+cover_color: rgb(33, 37, 41)
 
 # Gems
 plugins:
