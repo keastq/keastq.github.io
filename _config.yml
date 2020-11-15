@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: keastq's blog
+description: 블로그 겸 학습 일지
 url: https://keastq.github.io/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /amy-hirschi-unsplash.jpg
 
 # Gems
 plugins:
@@ -28,9 +28,6 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
   name: Kwon Donggyu
